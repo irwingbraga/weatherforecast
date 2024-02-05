@@ -1,0 +1,52 @@
+[
+  {
+    "Description": "Freezing",
+    "MinTemperature": -60,
+    "MaxTemperature": -20
+  },
+  {
+    "Description": "Bracing",
+    "MinTemperature": -19,
+    "MaxTemperature": -10
+  },
+  {
+    "Description": "Chilly",
+    "MinTemperature": -9,
+    "MaxTemperature": 0
+  },
+  {
+    "Description": "Cool",
+    "MinTemperature": 1,
+    "MaxTemperature": 10
+  },
+  {
+    "Description": "Mild",
+    "MinTemperature": 11,
+    "MaxTemperature": 20
+  },
+  {
+    "Description": "Warm",
+    "MinTemperature": 21,
+    "MaxTemperature": 25
+  },
+  {
+    "Description": "Balmy",
+    "MinTemperature": 26,
+    "MaxTemperature": 30
+  },
+  {
+    "Description": "Hot",
+    "MinTemperature": 31,
+    "MaxTemperature": 35
+  },
+  {
+    "Description": "Sweltering",
+    "MinTemperature": 36,
+    "MaxTemperature": 40
+  },
+  {
+    "Description": "Scorching",
+    "MinTemperature": 41,
+    "MaxTemperature": 60
+  }
+]
